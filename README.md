@@ -3,7 +3,7 @@ Welcome to a collection of 10+ Java-based mini projects built using public APIs.
 showcasing practical Java + REST API integration skills.
 
 🛠️ Technologies Used
-💻 Java 17+
+💻 Java 21
 
 🎨 Java Swing (GUI) or Console
 
